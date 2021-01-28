@@ -1,0 +1,23 @@
+<svg width="1000" height="133" viewBox="0 0 1000 133" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="200" transform="translate(0 -67)" fill="white"/>
+<rect width="200" height="200" transform="translate(0 -67)" fill="#FFFBD5"/>
+<rect x="67" width="66" height="66" fill="#A41C31"/>
+<rect y="66" width="67" height="67" fill="#A41C31"/>
+<rect x="133" y="66" width="67" height="67" fill="#A41C31"/>
+<rect width="200" height="200" transform="translate(200 -67)" fill="#A41C31"/>
+<rect x="267" width="66" height="66" fill="#FFFBD5"/>
+<rect x="200" y="66" width="67" height="67" fill="#FFFBD5"/>
+<rect x="333" y="66" width="67" height="67" fill="#FFFBD5"/>
+<rect width="200" height="200" transform="translate(400 -67)" fill="#FFFBD5"/>
+<rect x="467" width="66" height="66" fill="#A41C31"/>
+<rect x="400" y="66" width="67" height="67" fill="#A41C31"/>
+<rect x="533" y="66" width="67" height="67" fill="#A41C31"/>
+<rect width="200" height="200" transform="translate(600 -67)" fill="#A41C31"/>
+<rect x="667" width="66" height="66" fill="#FFFBD5"/>
+<rect x="600" y="66" width="67" height="67" fill="#FFFBD5"/>
+<rect x="733" y="66" width="67" height="67" fill="#FFFBD5"/>
+<rect width="200" height="200" transform="translate(800 -67)" fill="#FFFBD5"/>
+<rect x="867" width="66" height="66" fill="#A41C31"/>
+<rect x="800" y="66" width="67" height="67" fill="#A41C31"/>
+<rect x="933" y="66" width="67" height="67" fill="#A41C31"/>
+</svg>
